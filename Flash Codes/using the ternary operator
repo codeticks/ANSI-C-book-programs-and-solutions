@@ -1,0 +1,3 @@
+biggest = num1 >= num2 ? (num1 >= num3 ? num1 : num3) : (num2 >= num3 ? num2 : num3);
+
+this above here helps us to make discussions without if else.
